@@ -38,4 +38,4 @@ docker-compose run web rake db:create
 
 ## Rails実行確認
 
-`localhost:3000'
+`localhost:3000`
